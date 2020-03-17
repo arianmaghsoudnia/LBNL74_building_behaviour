@@ -1,0 +1,112 @@
+body 
+{
+margin:0;
+padding:0;
+margin-top:0px;
+margin-left:8px;
+}
+
+
+.myBanner 
+{
+background:#990000;
+color:white;
+margin:0;
+padding:0;
+margin-left:-8px;
+}
+
+.myBanner table 
+{
+color:white;
+}
+
+.myBanner table td
+{
+padding-right:3px;
+}
+
+.myBanner select 
+{
+font-size:70%;
+}
+
+.myBanner input 
+{
+font-size:70%;
+}
+
+.myBanner a 
+{
+color:white;
+text-decoration:none;
+}
+
+.mySubBanner 
+{
+background:#ddd6c6;
+margin-left:-8px;
+border-bottom:1px solid #333333;
+}
+.mySubBanner a 
+{
+text-decoration:none;
+}
+   
+.myGanner 
+{
+background:#990000;
+color:white;
+margin:0;
+padding:0;
+margin-left:-8px;
+}
+
+.myGanner table 
+{
+color:white;
+}
+
+.myGanner table td
+{
+padding-right:3px;
+padding-top:6px;
+}
+
+.myGanner select 
+{
+font-size:70%;
+}
+
+.myGanner input 
+{
+font-size:70%;
+}
+
+.myGanner a 
+{
+color:white;
+text-decoration:none;
+}
+
+.mySubGanner 
+{
+background:#ddd6c6;
+margin-left:-8px;
+margin-top:6px;
+border-bottom:1px solid #333333;
+}
+
+.mySubGanner a 
+{
+text-decoration:none;
+}
+
+.mytopbanner 
+{
+color:white;
+margin:0;
+padding:0;
+margin-left:-8px;
+}
+
